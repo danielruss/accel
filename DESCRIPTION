@@ -1,0 +1,15 @@
+Package: accel
+Version: 0.1.0
+Date: 2020-12-02
+Title: Work with accelerometer data
+Author: Daniel Russ <druss@mail.nih.gov>
+Maintainer: Daniel Russ <druss@mail.nih.gov>
+Description: handling Accelerometer data.
+RoxygenNote: 7.1.1
+Encoding: UTF-8
+License: CC0
+LazyData: true
+Depends: 
+   R (>= 3.5.0)
+Imports:
+   tidyverse
